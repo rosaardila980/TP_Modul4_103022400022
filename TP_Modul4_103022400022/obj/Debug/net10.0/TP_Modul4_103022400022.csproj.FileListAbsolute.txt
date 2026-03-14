@@ -1,0 +1,15 @@
+C:\Users\Rosa Ardila\source\repos\TP_Modul4_103022400022\TP_Modul4_103022400022\bin\Debug\net10.0\TP_Modul4_103022400022.exe
+C:\Users\Rosa Ardila\source\repos\TP_Modul4_103022400022\TP_Modul4_103022400022\bin\Debug\net10.0\TP_Modul4_103022400022.deps.json
+C:\Users\Rosa Ardila\source\repos\TP_Modul4_103022400022\TP_Modul4_103022400022\bin\Debug\net10.0\TP_Modul4_103022400022.runtimeconfig.json
+C:\Users\Rosa Ardila\source\repos\TP_Modul4_103022400022\TP_Modul4_103022400022\bin\Debug\net10.0\TP_Modul4_103022400022.dll
+C:\Users\Rosa Ardila\source\repos\TP_Modul4_103022400022\TP_Modul4_103022400022\bin\Debug\net10.0\TP_Modul4_103022400022.pdb
+C:\Users\Rosa Ardila\source\repos\TP_Modul4_103022400022\TP_Modul4_103022400022\obj\Debug\net10.0\TP_Modul4_103022400022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosa Ardila\source\repos\TP_Modul4_103022400022\TP_Modul4_103022400022\obj\Debug\net10.0\TP_Modul4_103022400022.AssemblyInfoInputs.cache
+C:\Users\Rosa Ardila\source\repos\TP_Modul4_103022400022\TP_Modul4_103022400022\obj\Debug\net10.0\TP_Modul4_103022400022.AssemblyInfo.cs
+C:\Users\Rosa Ardila\source\repos\TP_Modul4_103022400022\TP_Modul4_103022400022\obj\Debug\net10.0\TP_Modul4_103022400022.csproj.CoreCompileInputs.cache
+C:\Users\Rosa Ardila\source\repos\TP_Modul4_103022400022\TP_Modul4_103022400022\obj\Debug\net10.0\TP_Modul4_103022400022.sourcelink.json
+C:\Users\Rosa Ardila\source\repos\TP_Modul4_103022400022\TP_Modul4_103022400022\obj\Debug\net10.0\TP_Modul4_103022400022.dll
+C:\Users\Rosa Ardila\source\repos\TP_Modul4_103022400022\TP_Modul4_103022400022\obj\Debug\net10.0\refint\TP_Modul4_103022400022.dll
+C:\Users\Rosa Ardila\source\repos\TP_Modul4_103022400022\TP_Modul4_103022400022\obj\Debug\net10.0\TP_Modul4_103022400022.pdb
+C:\Users\Rosa Ardila\source\repos\TP_Modul4_103022400022\TP_Modul4_103022400022\obj\Debug\net10.0\TP_Modul4_103022400022.genruntimeconfig.cache
+C:\Users\Rosa Ardila\source\repos\TP_Modul4_103022400022\TP_Modul4_103022400022\obj\Debug\net10.0\ref\TP_Modul4_103022400022.dll
